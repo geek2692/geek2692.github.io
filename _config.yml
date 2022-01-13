@@ -46,7 +46,7 @@ author_image: /images/geek2692.jpeg
 
 # Sidebar Add banner
 banner_url: "https://github.com/geek2692"
-banner_image: images/geek2692.jpeg
+banner_image: images/geek2692.png
 banner_prefix: "/images/banner/"
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
@@ -54,13 +54,13 @@ banner_prefix: "/images/banner/"
 
 # Social links in the site footer
 #twitter_username: "username"
-# facebook_username: "yabooong"
+# facebook_username: "geek2692"
 # googleplus_username: "u/0/101688448325229683345"
 github_username: "geek2692"
 #codepen_username: "username"
 #dribbble_uername: "username"
 #medium_username: "@username"
-# instagram_username: "yaboooong"
+# instagram_username: "geek2692"
 #pinterest_username: "username"
 #linkedin_username: "username"
 #weibo_username: "username"
