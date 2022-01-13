@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "YABOONG"
+title: "geek2692"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Safety zone is unsafe - Yaboong"
+description: "Safety zone is unsafe - geek2692"
 
 # Tagline near the site title
 tagline: "Safety zone is unsafe."
@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://yaboong.github.io"
+url: "https://geek2692.github.io"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -35,19 +35,19 @@ navigation:
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: yaboong-github-io
+disqus: geek2692-github-io
 
 # Author information - author info at the bottom of the post
-author_name: "Yaboong"
+author_name: "geek2692"
 author_bio: "오스카 쉰들러는 흔해빠진 기회주의자요 부패한 사업가였다. 그러나 거대한 악이 세상을 점령하는 것처럼 보일 때 그 악에 대항해서 사람의 생명을 구한 것은 귀족도 지식인도 종교인도 아닌 부패한 기회주의자 오스카 쉰들러였다."
-author_url:  "https://github.com/yaboong"
+author_url:  "https://github.com/geek2692"
 author_location: "Seoul, South Korea"
-author_image: /images/yaboong.jpeg
+author_image: /images/geek2692.jpeg
 
 # Sidebar Add banner
-banner_url: "https://github.com/yaboong"
-banner_image: images/yaboong.jpeg
-banner_prefix: "https://s3.ap-northeast-2.amazonaws.com/yaboong-blog-static-resources/banner/"
+banner_url: "https://github.com/geek2692"
+banner_image: images/geek2692.jpeg
+banner_prefix: "https://s3.ap-northeast-2.amazonaws.com/geek2692-blog-static-resources/banner/"
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 #mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
@@ -56,7 +56,7 @@ banner_prefix: "https://s3.ap-northeast-2.amazonaws.com/yaboong-blog-static-reso
 #twitter_username: "username"
 # facebook_username: "yabooong"
 # googleplus_username: "u/0/101688448325229683345"
-github_username: "yaboong"
+github_username: "geek2692"
 #codepen_username: "username"
 #dribbble_uername: "username"
 #medium_username: "@username"

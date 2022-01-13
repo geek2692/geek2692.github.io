@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Yaboong
-description: About this blog and host yaboong.
-banner_image: about_yaboong.jpg
+title: About geek2692
+description: About this blog and host geek2692.
+banner_image: about_geek2692.jpg
 ---
-### YABOONG
+### geek2692
 
 > 인생 리팩토링 중
