@@ -20,13 +20,13 @@ body {
 }
 
 a {
-    color: $picton-blue;
+    color: $khahi;
     text-decoration: underline;
     -webkit-transition: color 0.3s;
     -moz-transition:    color 0.3s;
     transition:         color 0.3s;
     &:hover {
-        color: lighten( $picton-blue, 11% );
+        color: lighten( $khahi, 11% );
     }
 }
 
@@ -122,7 +122,7 @@ pre:before {
 }
 
 blockquote {
-    border-left: 3px solid lighten( $picton-blue, 11% );
+    border-left: 3px solid lighten( $khahi, 11% );
     color: lighten( $mine-shaft, 4% );
     font-size: 18px;
     font-style: italic;
@@ -242,7 +242,7 @@ button,
 input[type="submit"],
 input[type="button"],
 input[type="reset"] {
-    background-color: $picton-blue;
+    background-color: $khahi;
     border: 0;
     color: $white;
     font-size: 12px;
@@ -264,7 +264,7 @@ button:active,
 input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
-    background-color: lighten( $picton-blue, 11% );
+    background-color: lighten( $khahi, 11% );
     outline: 0;
 }
 
@@ -512,7 +512,7 @@ green     #859900  operators, other keywords
 }
 
 .fill-horizontal {
-    background-color: $picton-blue;
+    background-color: $khahi;
     -webkit-box-shadow: inset -50px 0 $tundora;
     -moz-box-shadow:    inset -50px 0 $tundora;
     box-shadow:         inset -50px 0 $tundora;

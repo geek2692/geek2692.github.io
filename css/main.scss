@@ -105,7 +105,7 @@
 
 .nav-menu li:hover > a,
 .nav-menu .nav-current > a {
-    color: $picton-blue;
+    color: $khaki;
 }
 
 #menu-toggle {
@@ -145,11 +145,11 @@
 }
 
 .site-title a:hover {
-    color: lighten( $picton-blue, 11% );
+    color: lighten( $khaki, 11% );
 }
 
 .site-title .logo-text {
-    border-left: 10px solid $picton-blue;
+    border-left: 10px solid $khaki;
     padding-left: 20px;
 }
 
@@ -214,7 +214,7 @@
 }
 
 .post .featured-post {
-    background-color: lighten( $picton-blue, 11% );
+    background-color: lighten( $khahi, 11% );
     color: $white;
     font-size: 14px;
     height: 30px;
@@ -240,7 +240,7 @@
 }
 
 .entry-title {
-    background-color: $tundora;
+    background-color: $khaki;
     clear: both;
     color: $white;
     float: left;
@@ -268,7 +268,7 @@
 }
 
 .entry-meta {
-    background-color: lighten( $picton-blue, 11% ); 
+    background-color: lighten( $khahi, 11% ); 
     clear: both;
     color: $white;
     font-size: 12px;
@@ -290,7 +290,7 @@
 }
 
 .read-more .more-link {
-    background-color: $picton-blue;
+    background-color: $khahi;
     color: $white;
     display: inline-block;
     font-size: 12px;
@@ -306,7 +306,7 @@
 }
 
 .read-more .more-link:hover {
-    background-color: lighten( $picton-blue, 11% );
+    background-color: lighten( $khahi, 11% );
 }
 
 .entry-footer {
@@ -353,7 +353,7 @@
 
 .share-post a:hover,
 .tag-links a:hover {
-    background-color: $picton-blue;
+    background-color: $khahi;
     color: $white;
 }
 
@@ -416,7 +416,7 @@
 }
 
 .author-website a:hover {
-    color: $picton-blue;
+    color: $khahi;
 }
 
 /* Tags archive */
@@ -451,7 +451,7 @@ a.archive-top-link {
 
 .archive-tags-list a:hover,
 a.archive-top-link:hover {
-    background-color: $picton-blue;
+    background-color: $khahi;
     color: $white;
 }
 
@@ -536,7 +536,7 @@ a.archive-top-link:hover {
 .post-navigation .nav-next,
 .post-navigation .nav-previous {
     background-color: $tundora;
-    border-left: 3px solid $picton-blue; 
+    border-left: 3px solid $khahi; 
     margin-bottom: 20px;
     padding-bottom: 50px;
     padding-top: 30px;
@@ -567,7 +567,7 @@ a.archive-top-link:hover {
 }
 
 .post-navigation .nav-title a:hover {
-    color: $picton-blue;
+    color: $khahi;
 }
 
 .post-navigation .nav-before,
@@ -699,7 +699,7 @@ a.archive-top-link:hover {
 }
 
 .widget-recent-posts a:hover {
-    color: $picton-blue;
+    color: $khahi;
 }
 
 .widget-recent-posts span {
@@ -727,7 +727,7 @@ a.archive-top-link:hover {
 }
 
 .widget-tags a:hover {
-    background-color: $picton-blue;
+    background-color: $khahi;
     color: $white;
 }
 
@@ -879,7 +879,7 @@ a.archive-top-link:hover {
     }
 
     #menu-toggle.toggled-on {
-        color: lighten( $picton-blue, 11% );
+        color: lighten( $khahi, 11% );
     }
 
     #menu-toggle.toggled-on:before {
