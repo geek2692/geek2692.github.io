@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+.idea
+_post_examples
+_posts_sample
+.jekyll-cache
